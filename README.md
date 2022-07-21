@@ -8,7 +8,7 @@
             <li><a href="mailto:stellamutacho@gmail.com">Email</a></li>
             <li><a href="https://twitter.com/MutachoStella?t=lOo3oGCC96FfsyPT8s2XUA&s=08">Twitter</a></li>
             <li><a href="https://medium.com/@stellamutacho">Medium</a></li>
-            <li><a href="www.linkedin.com/in/stella-mutacho-36479b1b3">LinkedIn</a></li>
+            <li><a href="https://www.linkedin.com/in/stella-mutacho-36479b1b3/">LinkedIn</a></li>
 
 
 <!---
