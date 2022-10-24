@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stella Mutacho 
 - 👀I am a junior data engineer with a passion for building data-driven solutions, development of web3 dApps, and developing end-to-end ETL data pipelines.
-- 🌱 I'm currently taking a training at 10 Academy Batch 5 on Machine Learning, Data Engineering and Web 3 
-- 💞️ I'm skilled in identifying, analyzing, and interpreting trends in datasets using statistical techniques, application of ETL and ELT pipelines on data, and building visualizations to summarize results. 
+- 🌱 I have recently competed a training at 10 Academy Batch 5 on Machine Learning, Data Engineering and Web 3 
+- 💞️ I'm skilled in identifying, analyzing and interpreting trends in datasets using statistical techniques, application of ETL and ELT pipelines on data, and building visualizations to summarize results. 
 - I'm ready to collaborate on Machine Learning, Data Engineering and Web 3 projects
 - 📫 How to reach me: 
             <ul>
@@ -12,6 +12,6 @@
 
 
 <!---
-Stella-Mutacho/Stella-Muutacho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Stella-Mutacho/Stella-Mutacho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
